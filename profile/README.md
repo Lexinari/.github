@@ -1,11 +1,8 @@
-# Lexinari
-
-<p align="center">
-  <img src="logo.svg" alt="Lexinari Logo" width="200" />
-</p>
-
-**Transform your language learning from passive to active.**  
-Lexinari is a high-speed immersion companion designed to help you capture context and master vocabulary without the manual grind.
+<div align="center">
+  <img src="./logo.svg" width="300" alt="Lexinari Logo">
+  <h1>Lexinari</h1>
+  <p><b>Transform your language learning from passive to active.</b></p>
+</div>
 
 ## What we're building
 
